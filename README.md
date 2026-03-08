@@ -1,29 +1,36 @@
 # PacePilot Legal Site
 
-## Français
+Developer / Company: PaceLabs
 
-Pages statiques publiques utilisées pour la conformité stores et le support utilisateur.
+## Francais
 
-Ce dépôt (ou cette partie du projet) contient un mini-site pour :
+Pages statiques publiques utilisees pour la conformite stores et le support utilisateur.
+
+Ce depot (ou cette partie du projet) contient un mini-site pour:
 - Une page vitrine produit
-- Une URL de politique de confidentialité
+- Une URL de politique de confidentialite
 - Une URL de support
 
 ### Pages
 
-- `index.html` : page d'accueil PacePilot avec liens.
-- `privacy.html` : politique de confidentialité pour App Store / Google Play.
-- `support.html` : informations de support et contact.
+- `index.html`: page d accueil PacePilot avec liens.
+- `privacy.html`: politique de confidentialite pour App Store / Google Play.
+- `support.html`: informations de support et contact.
 
 ### Pourquoi ce site existe
 
-Les stores mobiles demandent des liens publics pour les informations légales et le support.
-Ces pages statiques sont légères, rapides et faciles à maintenir.
+Les stores mobiles demandent des liens publics pour les informations legales et le support.
+Ces pages statiques sont legeres, rapides et faciles a maintenir.
 
+### Securite
+
+- Ne jamais mettre de cle API, secret ou code interne dans ce site public.
+- Garder le code mobile et backend dans un depot prive.
 
 ### Contact
 
-- Support : `support@pacepilot.app`
+- Support: `support@pacepilot.app`
+- Editeur: `PaceLabs`
 
 ---
 
@@ -50,3 +57,4 @@ These static pages are lightweight, fast, and easy to maintain.
 ### Contact
 
 - Support: `support@pacepilot.app`
+- Publisher: `PaceLabs`
